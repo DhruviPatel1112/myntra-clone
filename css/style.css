@@ -1,0 +1,42 @@
+.textbanner
+{
+    color: #3E4152;
+    height:37px;
+    width: 100%;
+    letter-spacing: .15em;
+    font-size: 28.8px;
+    margin: 50px 0px 10px 30px;
+    font-family: Assistant,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+.brandsCard
+{
+    height: auto;
+    width: 100%;
+    
+}
+.forher img
+{
+    width:165px;
+    height:155px;
+}
+.season img{
+    width: 24.7%;
+    margin-left: -4px;
+}
+.forhim img{
+    width:165px;
+    height: 155px;
+}
+.dropdown-toggle::after
+{
+    visibility: hidden;
+}
+.dropdown:hover .dropdown-menu{
+    display:flex;
+}
+.dropdown-menu 
+{
+    display: none;
+}
+
